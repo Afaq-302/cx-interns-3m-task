@@ -2,8 +2,11 @@
 ## How to run the App on your local machine:
 
 First, run the development server:
-Clone the repo to your local machine and then run the following commands:
-
+Clone the repo to your local machine and and cd into cx-interns-3m-task-front then run the following commands to install node_modules: 
+```bash
+npm install 
+```
+and then:
 ```
 npm run dev
 ```
